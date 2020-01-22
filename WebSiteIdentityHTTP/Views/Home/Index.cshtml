@@ -1,0 +1,17 @@
+﻿
+@model Common.Model.User
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="alert-dismissable">
+        <p>Wellcome @User.Identity.Name /<span> <a href="Logout">Logout</a> </span> </p>
+      
+    </div>
+}
+else
+{
+<div class="alert alert-info">
+    <h3 class="text-danger">Please Sign Up Or Login </h3>
+</div>
+}

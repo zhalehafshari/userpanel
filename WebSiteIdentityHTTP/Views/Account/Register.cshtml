@@ -1,0 +1,67 @@
+﻿@model WebSiteIdentityHTTP.Models.UserRegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<hr />
+<div><h3>Please register UserName And Password</h3></div>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="RegiaterUser">
+
+            <div class="container">
+                
+                <div class="card bg-success text-white text-center">
+                    <div class="card-body">
+                        <div class="col-lg-4 ">
+                            <div asp-validation-summary="All" class="text-danger"></div>
+
+                            <div class="form-group">
+
+                                <label asp-for="Username" class="sr-only">User Name</label>
+                                <input asp-for="Username" class="form-control" placeholder="User Name" required autofocus>
+                                <span asp-validation-for="Username" class="text-danger"></span>
+                            </div>
+
+
+                            <div class="form-group">
+                                <label asp-for="Email" class="sr-only">Email</label>
+                                <input asp-for="Email" type="email" class="form-control" placeholder="Email Address" required>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+
+
+                            <div class="form-group">
+                                <label asp-for="Password" class="sr-only">Password</label>
+                                <input asp-for="Password" type="password" class="form-control" placeholder="Password" required>
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="ReEnterPassword" class="sr-only">ReEnterPassword</label>
+                                <input asp-for="ReEnterPassword" type="password" class="form-control" placeholder="ReEnterPassword" required>
+                                <span asp-validation-for="ReEnterPassword" class="text-danger"></span>
+                            </div>
+                           
+
+                            <button class="btn btn-lg btn-primary btn-block" type="submit">Register</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

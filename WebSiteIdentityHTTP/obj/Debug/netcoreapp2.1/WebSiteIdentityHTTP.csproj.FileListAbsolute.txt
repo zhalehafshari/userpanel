@@ -1,0 +1,97 @@
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.deps.json
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.runtimeconfig.json
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.runtimeconfig.dev.json
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.csprojAssemblyReference.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorAssemblyInfo.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorAssemblyInfo.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.AssemblyInfo.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.TagHelpers.input.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.TagHelpers.output.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorCoreGenerate.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorTargetAssemblyInfo.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorTargetAssemblyInfo.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.csproj.CopyComplete
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.Views.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.Views.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.Views.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Role\Index.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Role\CreateRoles.g.cshtml.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Role\AssignUsers.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.deps.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.runtimeconfig.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.runtimeconfig.dev.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.Views.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebSiteIdentityHTTP.Views.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.csprojAssemblyReference.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorAssemblyInfo.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorAssemblyInfo.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.AssemblyInfo.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.TagHelpers.input.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.TagHelpers.output.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorCoreGenerate.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Role\AssignUsers.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Role\CreateRoles.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Role\Index.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorTargetAssemblyInfo.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.RazorTargetAssemblyInfo.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.Views.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.csproj.CopyComplete
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\WebSiteIdentityHTTP.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Login\ForgotPassword.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ActiveCode.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ForgotPassword.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebsiteCore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\bin\Debug\netcoreapp2.1\WebsiteCore.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Account\SuccessRegister.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Account\ActiveAccount.g.cshtml.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebSiteIdentityHTTP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs

@@ -1,0 +1,16 @@
+﻿@model Common.Model.User 
+@{
+    ViewData["Title"] = "ActiveCode";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ActiveCode</h2>
+<div style="direction: rtl; padding: 20px">
+    <h2>@Model.ID عزیز !</h2>
+    <p>با تشکر از ثبت نام شما در تاپ لرن ، جهت ادامه کار میبایست حساب کاربری خود را فعال کنید</p>
+    <p>
+        <a href="http://localhost:61896/Account/ActiveAccount/@Model.ActiveCode">فعالسازی حساب کاربری</a>
+    </p>
+</div>
+
+

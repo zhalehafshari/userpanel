@@ -1,0 +1,24 @@
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.xml
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.csproj.CopyComplete
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.xml
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.csproj.CopyComplete
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Common\obj\Debug\netcoreapp2.1\Common.pdb

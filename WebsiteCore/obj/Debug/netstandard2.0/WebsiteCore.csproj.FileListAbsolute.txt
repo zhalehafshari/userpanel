@@ -1,0 +1,12 @@
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\obj\Debug\netstandard2.0\WebsiteCore.csprojAssemblyReference.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\obj\Debug\netstandard2.0\WebsiteCore.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\obj\Debug\netstandard2.0\WebsiteCore.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\obj\Debug\netstandard2.0\WebsiteCore.AssemblyInfo.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\bin\Debug\netstandard2.0\WebsiteCore.deps.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\bin\Debug\netstandard2.0\WebsiteCore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\obj\Debug\netstandard2.0\WebsiteCore.csproj.CopyComplete
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\bin\Debug\netstandard2.0\WebsiteCore.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\obj\Debug\netstandard2.0\WebsiteCore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\WebsiteCore\obj\Debug\netstandard2.0\WebsiteCore.pdb

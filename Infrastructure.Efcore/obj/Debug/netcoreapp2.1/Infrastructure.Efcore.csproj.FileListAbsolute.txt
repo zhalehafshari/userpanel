@@ -1,0 +1,28 @@
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.deps.json
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.AssemblyInfo.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.csprojAssemblyReference.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.csproj.CopyComplete
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.runtimeconfig.json
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.runtimeconfig.dev.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.deps.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.csprojAssemblyReference.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.AssemblyInfo.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.csproj.CopyComplete
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\obj\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.runtimeconfig.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\Infrastructure.Efcore\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.runtimeconfig.dev.json

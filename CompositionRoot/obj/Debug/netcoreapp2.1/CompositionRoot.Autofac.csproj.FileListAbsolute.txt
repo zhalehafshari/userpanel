@@ -1,0 +1,44 @@
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.deps.json
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.csprojAssemblyReference.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.AssemblyInfo.cs
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.xml
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.csproj.CopyComplete
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Documents\Visual Studio 2017\Projects\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.deps.json
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\CompositionRoot.Autofac.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.AspcoreIdentity.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Infrastructure.Efcore.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.xml
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.csprojAssemblyReference.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.csproj.CoreCompileInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.AssemblyInfoInputs.cache
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.AssemblyInfo.cs
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.csproj.CopyComplete
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\obj\Debug\netcoreapp2.1\CompositionRoot.Autofac.pdb
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\WebsiteCore.dll
+C:\Users\zhaleh\Desktop\WebSiteIdentity\CompositionRoot\bin\Debug\netcoreapp2.1\WebsiteCore.pdb
